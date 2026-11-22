@@ -1,0 +1,18 @@
+{
+  OrderId: Guid_1,
+  CustomerName: Sara Mostafa,
+  CustomerEmail: sara.mostafa@example.com,
+  Items: [
+    {
+      ProductId: Guid_2,
+      ProductName: Mechanical Keyboard,
+      UnitPrice: 500.00 EGP,
+      Quantity: 3,
+      LineTotal: 1500.00 EGP
+    }
+  ],
+  Subtotal: 1500.00 EGP,
+  Discount: 100.00 EGP,
+  Total: 1400.00 EGP,
+  CreatedAt: {Scrubbed}
+}
