@@ -1,8 +1,5 @@
 # Student Submission
 
-- **Name:** YOUR NAME HERE
-- **Group / ID:** YOUR GROUP / ID HERE
-
 ---
 
 # Simulation Unit Testing Assignment
